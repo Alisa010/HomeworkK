@@ -1,4 +1,4 @@
-
+all: main
 
 main: homework.o
 	  g++ homework.o -o main
